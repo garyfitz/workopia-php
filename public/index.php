@@ -1,7 +1,7 @@
 <?php
 require '../helpers.php';
 
-// Don't need to require these due to autoload
+// Don't need to require these due to spl_autoload
 // require basePath('Framework/Router.php');
 // require basePath('Framework/Database.php');
 
