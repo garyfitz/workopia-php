@@ -1,0 +1,16 @@
+{
+	"name": "garyfitz/workopia-php",
+	"description": "Job listing Application",
+	"authors": [
+		{
+			"name": "Gary Fitzgerald",
+			"email": "gary@onetwentygroup.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Framework\\": "Framework/",
+			"App\\": "App/"
+		}
+	}
+}
